@@ -1,7 +1,7 @@
  # 👋 Olá, eu sou Amanda Damasceno Martins!
 🚀 **Transformando dados em inteligência, código em soluções e IA em inovação!**  
 
-Sou apaixonado(a) por **Inteligência Artificial, Ciência de Dados e Engenharia de Software** 
+Sou apaixonado(a) por **Inteligência Artificial, Ciência de Dados e Engenharia de Software**.
 Meu foco é criar **soluções tecnológicas que impactam pessoas e negócios**.
 Gosto de desafios e da ideia de transformar problemas complexos em aplicações reais.  
 
