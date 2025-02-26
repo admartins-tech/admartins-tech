@@ -47,7 +47,7 @@ Gosto de desafios e da ideia de transformar problemas complexos em aplicações 
 ---
 
 ## 📫 **Vamos Conectar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/amanda-damasceno-martins-60b86b345/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/amanda-damasceno-martins/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admartins-tech/)  
 
 ---
